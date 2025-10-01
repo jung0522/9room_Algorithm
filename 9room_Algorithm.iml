@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/GameJam" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/과연_승자는" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/구름_RPG" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/나무꾼_구름이" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/복제_로봇" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/빵야" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/시간복잡도" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/여유_황금비" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/운동_중독_플레이어" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/울타리_치기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/이진수_정렬" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/합_계산기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/합리적_소비" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/해적왕_구름이" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
